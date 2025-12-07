@@ -1,1 +1,3 @@
+#include <stido.h>
 this is test file
+return 0
